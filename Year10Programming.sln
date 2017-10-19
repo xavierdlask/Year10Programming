@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberFun", "NumberFun\Numb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PickADoor", "PickADoor\PickADoor.csproj", "{3887FC85-2522-4C1F-B8F0-5A02A394C6FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeProgram", "AgeProgram\AgeProgram.csproj", "{24CCA956-047C-4B12-9841-54872D8BA584}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{3887FC85-2522-4C1F-B8F0-5A02A394C6FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3887FC85-2522-4C1F-B8F0-5A02A394C6FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3887FC85-2522-4C1F-B8F0-5A02A394C6FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24CCA956-047C-4B12-9841-54872D8BA584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24CCA956-047C-4B12-9841-54872D8BA584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24CCA956-047C-4B12-9841-54872D8BA584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24CCA956-047C-4B12-9841-54872D8BA584}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
