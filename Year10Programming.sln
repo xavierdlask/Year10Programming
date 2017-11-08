@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magic8Ball", "Magic8Ball\Ma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsultGenerator", "InsultGenerator\InsultGenerator.csproj", "{7B65B47F-25EF-49F2-9E18-983316A6F28C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{0393E4BC-39FF-4CD6-AA65-DEEF14F3BE81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{7B65B47F-25EF-49F2-9E18-983316A6F28C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B65B47F-25EF-49F2-9E18-983316A6F28C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B65B47F-25EF-49F2-9E18-983316A6F28C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0393E4BC-39FF-4CD6-AA65-DEEF14F3BE81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0393E4BC-39FF-4CD6-AA65-DEEF14F3BE81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0393E4BC-39FF-4CD6-AA65-DEEF14F3BE81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0393E4BC-39FF-4CD6-AA65-DEEF14F3BE81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
