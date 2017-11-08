@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsultGenerator", "InsultGe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{0393E4BC-39FF-4CD6-AA65-DEEF14F3BE81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockPaperScissors", "RockPaperScissors\RockPaperScissors.csproj", "{76554E18-D899-4F90-B467-05014EB7837C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{0393E4BC-39FF-4CD6-AA65-DEEF14F3BE81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0393E4BC-39FF-4CD6-AA65-DEEF14F3BE81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0393E4BC-39FF-4CD6-AA65-DEEF14F3BE81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76554E18-D899-4F90-B467-05014EB7837C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76554E18-D899-4F90-B467-05014EB7837C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76554E18-D899-4F90-B467-05014EB7837C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76554E18-D899-4F90-B467-05014EB7837C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
