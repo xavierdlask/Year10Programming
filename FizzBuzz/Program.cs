@@ -14,7 +14,7 @@ namespace FizzBuzz
             for (int i = 1; i <= 100; i++)
             {
                 // If divisible by both 3 and 5
-                if (1 % 3 ==0 && 1 % 5 == 0)
+                if (i % 3 ==0 && 1 % 5 == 0)
                 {
                     Console.WriteLine("FizzBuzz");
                 }
@@ -24,7 +24,7 @@ namespace FizzBuzz
                     Console.WriteLine("Fizz");
                 }
                 // if divisable by 5
-                else if (1 % 5 == 0)
+                else if (i % 5 == 0)
                 {
                     Console.WriteLine("Buzz");
                 }
