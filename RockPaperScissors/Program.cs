@@ -34,11 +34,33 @@ namespace RockPaperScissors
 
         private static void PrintScore(ref int userScore, ref int computerScore)
         {
-            // Code for printing the score
+            Console.Clear();
+            Console.WriteLine("User: " + userScore + "   Computer: " + computerScore);
         }
         private static string UserTurn()
         {
-            return "Rock";
+            string choice = "";
+            while (choice != "1" && choice != "2" && choice != "3")
+            {
+                Console.WriteLine("1: Rock");
+                Console.WriteLine("2: Paper");
+                Console.WriteLine("3: Scissors");
+                Console.Write("Your Choice: ");
+                choice = Console.ReadLine();
+            }
+
+            if (choice == "1")
+            {
+                return "Rock";
+            }
+            else if (choice == "2")
+            {
+                return "Paper";
+            }
+            else
+            {
+                return "Scissors";
+            }
         }
         private static string ComputerTurn()
         {
@@ -56,7 +78,7 @@ namespace RockPaperScissors
         {
             return true;
         }
-        private static void updateScores(string result, ref int computerScore)
+        private static void UpdateScore(string result, ref int userScore, ref int computerScore)
         {
 
         }
