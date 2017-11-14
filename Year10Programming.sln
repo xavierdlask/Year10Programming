@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockPaperScissors", "RockPaperScissors\RockPaperScissors.csproj", "{76554E18-D899-4F90-B467-05014EB7837C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BabyBlackJack", "BabyBlackJack\BabyBlackJack.csproj", "{4DF03E83-4A8E-41A9-9ECA-3D91E0A1388A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{76554E18-D899-4F90-B467-05014EB7837C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76554E18-D899-4F90-B467-05014EB7837C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76554E18-D899-4F90-B467-05014EB7837C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DF03E83-4A8E-41A9-9ECA-3D91E0A1388A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF03E83-4A8E-41A9-9ECA-3D91E0A1388A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF03E83-4A8E-41A9-9ECA-3D91E0A1388A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF03E83-4A8E-41A9-9ECA-3D91E0A1388A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
